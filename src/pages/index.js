@@ -2,7 +2,7 @@ import React from 'react'
 
 const Home = () => (
   <Container>
-    <H1>Paprika</H1>
+    <H1>hello?</H1>
     <p>A Gatsby starter for people who love forms but hate servers.</p> 
 
     <H2>Why:</H2>
